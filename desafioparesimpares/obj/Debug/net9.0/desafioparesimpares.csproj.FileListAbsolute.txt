@@ -1,0 +1,14 @@
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\bin\Debug\net9.0\desafioparesimpares.exe
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\bin\Debug\net9.0\desafioparesimpares.deps.json
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\bin\Debug\net9.0\desafioparesimpares.runtimeconfig.json
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\bin\Debug\net9.0\desafioparesimpares.dll
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\bin\Debug\net9.0\desafioparesimpares.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\desafioparesimpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\desafioparesimpares.AssemblyInfoInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\desafioparesimpares.AssemblyInfo.cs
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\desafioparesimpares.csproj.CoreCompileInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\desafioparesimpares.dll
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\refint\desafioparesimpares.dll
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\desafioparesimpares.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\desafioparesimpares.genruntimeconfig.cache
+C:\Users\56436641866\Desktop\BackEndmoura\desafioparesimpares\obj\Debug\net9.0\ref\desafioparesimpares.dll
