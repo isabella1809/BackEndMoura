@@ -1,0 +1,15 @@
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\bin\Debug\net9.0\cadastrodealunos.exe
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\bin\Debug\net9.0\cadastrodealunos.deps.json
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\bin\Debug\net9.0\cadastrodealunos.runtimeconfig.json
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\bin\Debug\net9.0\cadastrodealunos.dll
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\bin\Debug\net9.0\cadastrodealunos.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.AssemblyInfoInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.AssemblyInfo.cs
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.csproj.CoreCompileInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.sourcelink.json
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.dll
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\refint\cadastrodealunos.dll
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\cadastrodealunos.genruntimeconfig.cache
+C:\Users\56436641866\Desktop\BackEndmoura\cadastrodealunos\obj\Debug\net9.0\ref\cadastrodealunos.dll

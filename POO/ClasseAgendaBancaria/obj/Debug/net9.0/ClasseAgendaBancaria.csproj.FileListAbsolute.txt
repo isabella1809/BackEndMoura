@@ -1,0 +1,15 @@
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\bin\Debug\net9.0\ClasseAgendaBancaria.exe
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\bin\Debug\net9.0\ClasseAgendaBancaria.deps.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\bin\Debug\net9.0\ClasseAgendaBancaria.runtimeconfig.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\bin\Debug\net9.0\ClasseAgendaBancaria.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\bin\Debug\net9.0\ClasseAgendaBancaria.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.AssemblyInfoInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.AssemblyInfo.cs
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.sourcelink.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\refint\ClasseAgendaBancaria.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ClasseAgendaBancaria.genruntimeconfig.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\ClasseAgendaBancaria\obj\Debug\net9.0\ref\ClasseAgendaBancaria.dll

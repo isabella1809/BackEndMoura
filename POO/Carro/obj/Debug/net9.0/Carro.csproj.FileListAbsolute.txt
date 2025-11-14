@@ -1,0 +1,15 @@
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\bin\Debug\net9.0\Carro.exe
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\bin\Debug\net9.0\Carro.deps.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\bin\Debug\net9.0\Carro.runtimeconfig.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\bin\Debug\net9.0\Carro.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\bin\Debug\net9.0\Carro.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.AssemblyInfoInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.AssemblyInfo.cs
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.sourcelink.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\refint\Carro.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\Carro.genruntimeconfig.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Carro\obj\Debug\net9.0\ref\Carro.dll

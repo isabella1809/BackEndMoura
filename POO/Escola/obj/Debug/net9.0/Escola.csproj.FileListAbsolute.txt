@@ -1,0 +1,15 @@
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\bin\Debug\net9.0\Escola.exe
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\bin\Debug\net9.0\Escola.deps.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\bin\Debug\net9.0\Escola.runtimeconfig.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\bin\Debug\net9.0\Escola.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\bin\Debug\net9.0\Escola.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.AssemblyInfoInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.AssemblyInfo.cs
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.sourcelink.json
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\refint\Escola.dll
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\Escola.genruntimeconfig.cache
+C:\Users\56436641866\Desktop\BackEndmoura\POO\Escola\obj\Debug\net9.0\ref\Escola.dll

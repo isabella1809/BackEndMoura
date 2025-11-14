@@ -1,0 +1,15 @@
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\bin\Debug\net9.0\garrafa.exe
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\bin\Debug\net9.0\garrafa.deps.json
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\bin\Debug\net9.0\garrafa.runtimeconfig.json
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\bin\Debug\net9.0\garrafa.dll
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\bin\Debug\net9.0\garrafa.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.AssemblyInfoInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.AssemblyInfo.cs
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.csproj.CoreCompileInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.sourcelink.json
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.dll
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\refint\garrafa.dll
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\garrafa.genruntimeconfig.cache
+C:\Users\56436641866\Desktop\BackEndmoura\garrafa\obj\Debug\net9.0\ref\garrafa.dll

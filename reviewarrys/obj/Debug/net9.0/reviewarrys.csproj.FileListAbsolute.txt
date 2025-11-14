@@ -1,0 +1,15 @@
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\bin\Debug\net9.0\reviewarrys.exe
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\bin\Debug\net9.0\reviewarrys.deps.json
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\bin\Debug\net9.0\reviewarrys.runtimeconfig.json
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\bin\Debug\net9.0\reviewarrys.dll
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\bin\Debug\net9.0\reviewarrys.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.AssemblyInfoInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.AssemblyInfo.cs
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.csproj.CoreCompileInputs.cache
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.sourcelink.json
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.dll
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\refint\reviewarrys.dll
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.pdb
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\reviewarrys.genruntimeconfig.cache
+C:\Users\56436641866\Desktop\BackEndmoura\reviewarrys\obj\Debug\net9.0\ref\reviewarrys.dll
