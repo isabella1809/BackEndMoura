@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\56436641866\\Desktop\\BackEndmoura\\POO\\pilarespoo\\ExerciciosInterface\\ExerciciosInterface.csproj",
+      "projectUniqueName": "C:\\Users\\56436641866\\Desktop\\BackEndmoura\\POO\\pilarespoo\\Interface\\ExerciciosInterface\\ExerciciosInterface.csproj",
       "projectName": "ExerciciosInterface",
-      "projectPath": "C:\\Users\\56436641866\\Desktop\\BackEndmoura\\POO\\pilarespoo\\ExerciciosInterface\\ExerciciosInterface.csproj",
+      "projectPath": "C:\\Users\\56436641866\\Desktop\\BackEndmoura\\POO\\pilarespoo\\Interface\\ExerciciosInterface\\ExerciciosInterface.csproj",
       "packagesPath": "C:\\Users\\56436641866\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\56436641866\\Desktop\\BackEndmoura\\POO\\pilarespoo\\ExerciciosInterface\\obj\\",
+      "outputPath": "C:\\Users\\56436641866\\Desktop\\BackEndmoura\\POO\\pilarespoo\\Interface\\ExerciciosInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\56436641866\\AppData\\Roaming\\NuGet\\NuGet.Config"
