@@ -1,0 +1,31 @@
+
+@model CrudMoura.Models.Aluno
+
+<h1>Cadastro do Aluno </h1>
+
+
+
+<form asp-action="SalvarFruta" method="post">
+<label asp-for="Nome">Nome do Aluno</label>
+<input asp-for="Nome" class="form-control">
+
+
+<br>
+<label asp-for="nota">Nota do Aluno</label>
+<input asp-for="nota" class="form-control">
+
+<br>
+<label asp-for="Sala">Sala do Aluno</label>
+<input asp-for="Sala" class="form-control">
+
+<br>
+<label asp-for="CPF">CPF do Aluno</label>
+<input asp-for="CPF" class="form-control">
+
+<br>
+<label asp-for="RA">RA do Aluno</label>
+<input asp-for="RA" class="form-control">
+
+<br><br>
+<button class="btn btn-success">cadastrar Aluno</button>
+</form>

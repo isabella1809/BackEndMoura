@@ -1,0 +1,11 @@
+<h1> lista de frutas </h1>
+
+@foreach(var item in @ViewBag.frutas){
+   <p>
+   fruta : @item.Id <br />
+   Nome da fruta : @item.Nome <br />
+   preço da fruta : @item.Preco <br />
+   Quantidade da fruta : @item.Quantidade <br />
+   Categoria da fruta : @item.Categoria <br />
+   </p> 
+}
