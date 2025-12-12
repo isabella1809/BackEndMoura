@@ -1,0 +1,56 @@
+@model DevConnectMoura.Models.TbUsuario
+<link rel="shortcut icon" href="~/images/DevConnect.svg" type="imagem/icon">
+<link rel="stylesheet" href="~/css/cadastro.css">
+
+<script defer>
+    let UsuarioNovoCadastrado = "@ViewBag.UsuarioNovoCadastrado";
+
+    if (UsuarioNovoCadastrado == "Nao cadastrado") {
+        alert("Não foi possivel cadastrar esse usuario! fale com nossos administrador")
+    }
+</script>
+<h1> DevConnect - Tela Cadastro</h1>
+
+
+<main>
+    <div>
+        <form class="estilo-cadastro" asp-action="Index" asp-controller="Usuario" enctype="multipart/form-data">
+            <img src="~/images/logo DevConnect.svg" alt="">
+            <p>Cadastre-se para a comunidade exclusiva de desenvolvedores</p>
+            <div class="cadastro-campos">
+                <label for="">Nome e Sobrenome</label>
+                <input type="text" asp-for="NomeCompleto" id="">
+            </div>
+
+            <div class="cadastro-campos">
+                <label for="">Nome de usuário</label>
+                <input type="text" asp-for="NomeUsuario" id="">
+            </div>
+
+            <div class="cadastro-campos">
+                <label for="">E-mail</label>
+                <input type="text" asp-for="Email" id="">
+            </div>
+
+            <div class="cadastro-campos">
+                <label for="">senha</label>
+                <input type="text" asp-for="Senha" id="">
+            </div>
+
+            <div class="formulario-campos">
+                <label id="campo-upload" for="upload">faça upload da sua imagem aqui...</label>
+                <input type="file" name="images">
+
+            </div>
+            <button type="submit" class="cadastro-botao-vinho">Cadastre-se</button>
+
+            <p>ao se cadastrar, você concorda com nossos termos, políticas de dados e políticas de cookies.</p>
+        </form>
+        <section id="secao-conta" class="cadastro-campos">
+            <p class="conta">tem uma conta? <a href="#">conecte-se</a></p>
+
+            <label for=""></label>
+
+        </section>
+    </div>
+</main>

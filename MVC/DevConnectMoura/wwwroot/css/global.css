@@ -97,12 +97,16 @@ h1 {
     border: var(--borda);
     height: 35px;
     background-color: var(--cor-preto);
+    display: none;
+
 }
 
 .campo-upload>label {
     font-size: var(--tamanho-fonte-sm);
     color: var(--cor-verde-agua);
     font-weight: 600;
+  
+
 }
     
 /*cadastro*/
@@ -124,25 +128,30 @@ h1 {
     color: var(--cor-cinza);
     font-size: var(--tamanho-fonte-sm);
     border-radius: var(--borda-arredondada);
+    
 }
 
 .cadastro-campos>label {
     font-size: var(--tamanho-fonte-sm);
     color: var(--cor-preta);
     font-weight: 600;
+    
 }
 
-#texto-upload {
+#campo-upload {
 display: inline-block;
 width: 100%;
 max-width: 300px;
 min-height: 35px;
 padding: 5px;
-background-color: var(--cor-laranja-amarelado);
+background-color: #ffe1ca;
 color: var(--cor-cinza);
 text-align: center;
 border-radius: var(--borda-arredondada);
 font-weight: 500;
+display: none;
+
+
 }
 
 /* cabecalho */
